@@ -7,7 +7,7 @@ Bearnad – Swap tokens fast and securely on the Monad Testnet!
 ---
 
 ## 🔗 Live App
-👉 [https://trybearnad.vercel.app/](https://trybearnad.vercel.app/)
+👉 [https://trybearnad.vercel.app/](https://trybearnad.vercel.app)
 
 ---
 
