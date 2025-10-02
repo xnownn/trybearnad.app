@@ -34,5 +34,16 @@ Bearnad – Swap tokens fast and securely on the Monad Testnet!
 
 ---
 
+## 🚀 Key Features
+
+| Feature                | Description |
+|-------------------------|-------------|
+| Automated Market Maker  | Enables token swaps without order books |
+| Fee System              | 0.25% total fee (0.20% to LPs, 0.05% to platform) |
+| Liquidity Pools         | Provide liquidity and earn LP rewards |
+| Token Swaps             | Instantly swap between supported tokens |
+| Multi-hop Routing       | Finds the best path across multiple pairs for optimal rates |
+
+
 - More documentation coming soon...
 
