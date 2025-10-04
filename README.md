@@ -14,7 +14,7 @@ Bearnad – Swap tokens fast and securely on the Monad Testnet!
 ## 📌 Network Info
 - **Chain:** Monad Testnet  
 - **Router Contract:** [0xB52179DF330C3Cd391E63fEcCeBa6252C3BFA3a3](https://testnet.monadexplorer.com/address/0xB52179DF330C3Cd391E63fEcCeBa6252C3BFA3a3)
-
+- **BEARNAD Contract:** [0xbf4953C67c60f982F5c8306919769168Dd47A91D](https://testnet.monadexplorer.com/address/0xbf4953C67c60f982F5c8306919769168Dd47A91D)
 ---
 
 ## 🚀 Features
