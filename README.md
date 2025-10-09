@@ -1,4 +1,4 @@
-![Bearnad DEX Logo](trybearnad.jpg)
+![Bearnad DEX Logo](b11.png)
 
 # Bearnad
 
